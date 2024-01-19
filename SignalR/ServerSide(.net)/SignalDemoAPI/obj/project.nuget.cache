@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dtJn1fhCs/s+Aebiw2xQ2/J5/ft18ahhGxehpbIsU3InJg6W6AyFg0zRMhFjgEhEIIpS7mE6W/o5X0P0BGAbpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sit318.SIT\\Desktop\\MachineLearningWith.Net\\SignalDemoAPI\\SignalDemoAPI\\SignalDemoAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sit318.SIT\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sit318.SIT\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sit318.SIT\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\sit318.SIT\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\sit318.SIT\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\sit318.SIT\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
