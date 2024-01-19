@@ -1,4 +1,3 @@
-Certainly! Below is a basic example of a README file for a SignalR demo created with Angular. Make sure to replace placeholders such as `[Your Project Name]`, `[Your Description]`, and `[Your PDF File]` with the appropriate information.
 
 ```markdown
 # SignalR Demo with Angular
@@ -9,11 +8,11 @@ This project demonstrates the integration of SignalR with Angular to create a re
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Documentation](#documentation)
+1. [Introduction]
+2. [Features]
+3. [Installation]
+4. [Usage]
+5. [Documentation]
 
 ## Introduction
 
